@@ -1,0 +1,22 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    margin: auto;
+    box-sizing: border-box;
+    background-color: black;
+}
+.box{
+    width: 1000px;
+    height: 100vh;
+    margin: auto;
+    background: rgb(109, 124, 50);
+}
+.main{
+    width: 1000px;
+    height: 100vh;
+    background: rgb(109, 124, 50);
+    background: url("pineapple-icon.svg");
+    background-size: 20px 20px ;
+    background-repeat: repeat;
+    overflow: hidden;
+}
